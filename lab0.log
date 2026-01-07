@@ -1,0 +1,41 @@
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=schannel
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Khoi Ho
+user.email=minhkhoi0975@gmail.com
+init.defaultbranch='main'
+github.user=minhkhoi0975
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+submodule.active=.
+remote.origin.url=https://github.com/minhkhoi0975/cs465-lab0.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+lfs.repositoryformatversion=0
+"---" 
+1.107.1
+994fd12f8d3a5aa16f17d42c041e5809167e845a
+x64
+"---" 
+10.9.3
+"---" 
+"https://cs465-lab0-q94q.onrender.com" 
